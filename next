@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+class next{
+public static void main(String[]args){
+Scanner ip=new Scanner(System.in);
+String num=ip.next();
+System.out.print(num);
+}
+}
